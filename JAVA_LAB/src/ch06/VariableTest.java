@@ -11,6 +11,8 @@ public class VariableTest {
 		long lNum = 12345678900L;
 		//작을경우에는 자동으로 int형으로 형변환이 된다
 		System.out.println(lNum);
+		//연산을 대상 = 피연산자 
+		//단항연산자 = 피연산자 1개 , 2항연산자 = 피연산자 2개 , 3항연산자 = 피연산자 3개(3항연산자)
 	}
 
 }
